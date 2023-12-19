@@ -4,4 +4,4 @@
 
 **For players,**
 
-- Welcome to use "**mc.artform.cn**" into the [Java Edition] multiplayer server address box and click done to join the community server to explore.
+- Welcome to use "**`mc.artform.cn`**" into the [Java Edition] multiplayer server address box and click done to join the community server to explore.
