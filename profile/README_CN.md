@@ -9,6 +9,7 @@
 **支持我们**
 
 - [爱发电](https://afdian.net/a/artformgames)
+- [爱发电 (备用)](https://afdian.com/a/artformgames)
 
 <br>
 

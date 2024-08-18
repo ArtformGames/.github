@@ -9,6 +9,7 @@
 **Suport us**
 
 - [Afdian](https://afdian.net/a/artformgames)
+- [Afdian (Backup)](https://afdian.com/a/artformgames)
 
 <br>
 
